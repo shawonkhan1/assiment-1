@@ -183,3 +183,206 @@
 }
 
 /* end The Vision of Future */
+
+/* Start Dr. Muhammad Yunus Section */
+.Yunus-container{
+    background-image: url("/assets/quote-bg.png");
+    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-bottom: 80px;
+    border-radius: 16px;
+    padding: 48px 32px 48px 32px;
+}
+
+.yunus-h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: hsla(0,0%,5%,0.8);
+
+}
+
+ /* Start Your Opinion Matters */
+
+.Opinion-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: hsla(0,0%,5%,1);
+    margin-left: 160px;
+}
+
+/* 
+ Your Opinion Matters section End */
+
+
+ /* Start Recent News */
+ .title{
+    margin-left: 160px;
+    margin-right: 160px;
+ }
+ .subtitle{
+    font-size: 40px;
+    font-weight: 700;
+    color: hsla(0,0%,5%,1);
+    margin-bottom: 24px;
+ }
+ .news-container{
+    margin-top: 32px;
+ }
+
+ 
+ .row-prant{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 160px;
+    gap: 32px;
+    background: lightblue;
+    padding: 48px;
+    border-radius: 24px;
+    margin-bottom: 24px;
+ }
+
+ .row-aa img{
+    border-radius: 24px;
+ }
+
+ .row-bc img{
+    border-radius: 24px;
+ }
+ 
+ #sa button{
+    background-color: hsla(152,35%,83%,1);
+ }
+
+ .buttns{
+    background-color: hsla(165,100%,21%,1);
+    border: none;
+    margin-top: 32px;
+ }
+  /* End Recent News */
+
+ /* Start Donate Today */
+ .donate-title{
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 80px;
+    text-align: center;
+ }
+
+ .dontate-subtitle{
+    font-weight: 700;
+    font-size: 40px;
+    color: hsla(0,0%,5%,1);
+ }
+
+ .box-container{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 32px;
+ }
+
+.clor button{
+    background-color: hsla(152,35%,83%,1);
+}
+
+ .row-s button{
+    font-weight: 700;
+    font-size: 40px;
+    height: 128px;
+    width: 252px;
+    border-radius: 16px;
+    background-color: hsla(0,0%,101%,1);
+    margin-bottom: 32px;
+ }
+
+ .input-fild{
+    margin-left: 160px;
+    margin-right: 160px;
+    text-align: center;
+ }
+
+ .input-fild input{
+    width: 1032px;
+    height: 64px;
+    text-align: center;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    color: hsla(0,0%,5%,0.3);
+   
+ }
+
+ /* Start Subscribe Newsletter */
+.Subscribe-container{
+    margin: 80px 160px 80px 160px;
+    text-align: center;
+    background-color: hsla(152,35%,83%,1);
+    border-radius: 24px;
+    padding: 80px 100px 80px 100px;
+}
+
+
+ .vision-container{
+    font-weight: 700;
+    font-size: 40px;
+    color: hsla(0,0%,5%,1);
+ }
+
+ .Subscribe-input-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+ }
+
+ .Subscribe-input input{
+    width: 600px;
+    height: 55px;
+    color: hsla(0,0%,5%,0.3);
+    border-radius: 8px 0px 0px 8px;;
+    background-color: rgb(255, 255, 255);
+    border: none;
+ }
+
+ .Subscribe-button button{
+    width: 150px;
+    height: 56px;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: hsla(165,100%,21%,1);
+    border: none;
+    border-radius: 0px 8px 8px 0px;
+    color: hsla(0,0%,101%,1);
+ }
+
+ .spam-title{
+    margin-top: 25px;
+ }
+ /* End Subscribe Newsletter */
+
+ /* footer start */
+ .footer-title{
+    text-align: center;
+ }
+
+ .footer-subtitle{
+    font-weight: 700;
+    font-size: 32px;
+    color: hsla(0,0%,5%,1);
+    margin-bottom: 32px;
+
+ }
+
+ /* icon strt */
+ .hrr{
+    width: 80%;
+ }
+ .icon-container{
+    display: flex;
+    justify-content: center;
+    gap: 23px;
+    margin-bottom: 50px;
+    margin-top: 32px;
+ }

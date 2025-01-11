@@ -125,6 +125,11 @@
     height: 41px;
 }
 
+.buton:hover{
+    background-color: bisque;
+    color: black;
+}
+
 /* end shre itme*/
 
 
@@ -186,7 +191,7 @@
 
 /* Start Dr. Muhammad Yunus Section */
 .Yunus-container{
-    background-image: url("/assets/quote-bg.png");
+    background-image: url("../assets/quote-bg.png");
     background-repeat: no-repeat;
     background-color: rgb(255, 255, 255);
     border: 1px solid rgba(14, 14, 14, 0.15);

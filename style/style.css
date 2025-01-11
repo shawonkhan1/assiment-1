@@ -104,7 +104,7 @@
 
 
 
-/* share item */
+/* start share item */
 .hh{
     font-weight: 700;
     font-size: 20px;
@@ -201,6 +201,8 @@
     margin-bottom: 80px;
     border-radius: 16px;
     padding: 48px 32px 48px 32px;
+    background-position: left 40px;
+    
 }
 
 .yunus-h3{
@@ -212,11 +214,72 @@
 
  /* Start Your Opinion Matters */
 
-.Opinion-title{
+ .container-option{
     font-weight: 700;
     font-size: 40px;
-    color: hsla(0,0%,5%,1);
+}
+
+.container{
     margin-left: 160px;
+    margin-right: 160px;
+   
+}
+
+.prant{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+    background-color: hsla(152,35%,83%,1);
+    height: 44px;
+}
+
+table{
+    border-collapse: collapse;
+}
+table, th, td{
+    border: 1px solid black;
+}
+
+.table-title{
+    padding: 32px;
+    width: 1500px;  
+    height: 409px;
+    background-color: lightgray;
+    border-radius: 16px;
+}
+.tr-subtitle{
+    background-color: hsla(152,89%,33%,0.15);
+    margin: 24px;
+    padding: 10px 14px 10px 14px;
+    width: 322px;
+    height: 44px;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.tr-title{
+    height: 19px;
+    width: 1100px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 24px;
+    color: hsla(0,0%,5%,1);
+    border-color: rgba(14, 14, 14, 0.15);
+}
+select{
+    border: 1px solid rgb(14, 14, 14);
+    border-radius: 4px;
+    
+}
+select > option{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.prant-p{
+    font-weight: 600;
+    font-size: 20px;
+    color: hsla(0,0%,5%,1);
 }
 
 /* 
@@ -269,6 +332,9 @@
     margin-top: 32px;
  }
   /* End Recent News */
+
+
+
 
  /* Start Donate Today */
  .donate-title{
@@ -331,12 +397,12 @@
     padding: 80px 100px 80px 100px;
 }
 
-
+/* 
  .vision-container{
     font-weight: 700;
     font-size: 40px;
     color: hsla(0,0%,5%,1);
- }
+ } */
 
  .Subscribe-input-container{
     display: flex;
